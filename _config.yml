@@ -1,0 +1,57 @@
+# Site
+title:              22 Digital
+description:        "22 Digital is a different kind of agency.<br>We don't just work for money, nor with simply anyone.<br>Our mission is to change the world. If that's yours; let's talk."
+logo:               '/img/logo/22digital.png'
+locale:             en_GB
+baseurl:            ""
+url:                https://22digital.agency
+remote_theme:       inded/Jekyll_modern-blog
+
+# Jekyll
+permalink:          /:title/
+markdown:           kramdown
+highlighter:        rouge
+kramdown:
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
+
+# Plugins
+plugins:
+  - jemoji
+  - jekyll-mentions
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-include-cache
+  - jekyll-last-modified-at
+  - jekyll-redirect-from
+
+jekyll-mentions:
+    base_url: https://github.com
+
+# Exclude list
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - gulpfile.js
+  - package.json
+  - _site
+  - src
+  - vendor
+  - CNAME
+  - LICENSE
+  - Rakefile
+  - .gitignore
+  - .github
+  - 22digital.sublime-project
+  - 22digital.code-workspace
+  - 22digital.sublime-workspace
+  - CHANGELOG.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
