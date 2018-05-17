@@ -57,7 +57,7 @@ layout: compress
 <div class="container">
     <header class="header">
         <h1>
-            <img src="{{ site.logo }}" alt="22 Digital" width="125" height="125">
+            <img src="{{ site.url }}{{ site.logo }}" alt="22 Digital" width="125" height="125">
             <span>{{ site.description }}</span>
         </h1>
         <nav class="links">
@@ -87,7 +87,7 @@ layout: compress
         <!-- cards -->
         <div class="wrapper">
             {% for post in site.posts %}
-            <div class="card" data-id="{{ site.url }}/#/{{ post.id }}">
+            <div class="card" data-id="{{ site.url }}/#{{ post.id }}">
                 <div class="card__container card__container--closed">
                     <svg class="card__image" xmlns="http://www.w3.org/2000/svg"
                          xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1200"
@@ -98,7 +98,7 @@ layout: compress
                             </clipPath>
                         </defs>
                         <image clip-path="url({{ site.url }}/#{{ post.id }}-clip-path)" width="1920" height="1200"
-                               xlink:href="{{ site.url }}/{{ post.image }}"></image>
+                               xlink:href="{{ site.url }}{{ post.image }}"></image>
                     </svg>
                     <div class="card__content">
                         <i class="card__btn-close fa fa-times"></i>
