@@ -1,9 +1,9 @@
 ---
-layout: null
-permalink: '/humans.txt'
+permalink: "/humans.txt"
+layout: 
 sitemap:
-    changefreq: monthly
-    priority: 0.5
+  changefreq: monthly
+  priority: 0.5
 ---
 
 /* TEAM */

@@ -1,13 +1,13 @@
 ---
-title:  "WhyAddicted"
-subtitle: "Using Neuropsychology to beat Addiction."
-author: "Justin Hartman"
+title: WhyAddicted
+date: 2017-09-17 18:50:32 Z
+permalink: "/whyaddicted"
+subtitle: Using Neuropsychology to beat Addiction.
+author: Justin Hartman
 avatar: "/img/authors/me.jpeg"
 image: "/img/whyaddicted.jpg"
-date:   2017-09-17 18:50:32
-published: true
-permalink: /whyaddicted
 ---
+
 # WhyAddicted Version 2 Released
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci.

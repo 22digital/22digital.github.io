@@ -1,10 +1,11 @@
 ---
-layout: null
-permalink: /sitemap.xsl
+permalink: "/sitemap.xsl"
+layout: 
 sitemap:
-    changefreq: yearly
-    priority: 0.1
+  changefreq: yearly
+  priority: 0.1
 ---
+
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="2.0" 
                 xmlns:html="http://www.w3.org/TR/REC-html40"

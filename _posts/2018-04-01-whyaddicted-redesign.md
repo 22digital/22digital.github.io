@@ -1,13 +1,13 @@
 ---
-title:  "WhyAddicted 2.0"
-subtitle: "A redesigned user-experience."
-author: "Justin Hartman"
+title: WhyAddicted 2.0
+date: 2018-04-01 23:07:07 Z
+permalink: "/whyaddicted-redesign"
+subtitle: A redesigned user-experience.
+author: Justin Hartman
 avatar: "/img/authors/me.jpeg"
 image: "/img/whyaddicted-redesign.jpg"
-date:   2018-04-01 23:07:07
-published: true
-permalink: /whyaddicted-redesign
 ---
+
 # WhyAddicted Version 2 Released
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci.

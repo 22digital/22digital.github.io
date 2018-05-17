@@ -1,50 +1,46 @@
-# Site
-title:              22 Digital
-description:        "22 Digital is a different kind of agency.<br>We don't just work for money, nor with simply anyone.<br>Our mission is to change the world. If that's yours; let's talk."
-logo:               '/img/logo/22digital.png'
-locale:             en_GB
-baseurl:            ""
-url:                https://22digital.co.za
-
-# Jekyll
-permalink:          /:title
-markdown:           kramdown
-# highlighter:        rouge
-# kramdown:
-#   auto_ids:         true
-#   footnote_nr:      1
-#   entity_output:    as_char
-#   toc_levels:       1..6
-#   enable_coderay:   false
-
-# Plugins
+---
+title: 22 Digital
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+description: 22 Digital is a different kind of agency.<br>We don't just work for money,
+  nor with simply anyone.<br>Our mission is to change the world. If that's yours;
+  let's talk.
+logo: "/img/logo/22digital.png"
+locale: en_GB
+baseurl: ''
+url: https://22digital.co.za
+permalink: "/:title"
+markdown: kramdown
 plugins:
-  - jemoji
-  - jekyll-mentions
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-last-modified-at
-  - jekyll-redirect-from
-
+- jemoji
+- jekyll-mentions
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-last-modified-at
+- jekyll-redirect-from
 jekyll-mentions:
-    base_url: https://github.com
-
-# Exclude list
+  base_url: https://github.com
 exclude:
-  - .github
-  - .sass-cache
-  - _site
-  - .gitignore
-  - .travis.yml
-  - 22digital.sublime-project
-  - 22digital.code-workspace
-  - 22digital.sublime-workspace
-  - CHANGELOG.md
-  - CNAME
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
+- ".github"
+- ".sass-cache"
+- _site
+- ".gitignore"
+- ".travis.yml"
+- 22digital.sublime-project
+- 22digital.code-workspace
+- 22digital.sublime-workspace
+- CHANGELOG.md
+- CNAME
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+- Gemfile
+- Gemfile.lock
+- LICENSE
+- README.md

@@ -1,10 +1,11 @@
 ---
-layout: null
-permalink: '/robots.txt'
+permalink: "/robots.txt"
+layout: 
 sitemap:
-    changefreq: yearly
-    priority: 0.4
+  changefreq: yearly
+  priority: 0.4
 ---
+
 User-agent: *
 Allow: /
 
