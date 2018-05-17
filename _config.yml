@@ -5,18 +5,17 @@ logo:               '/img/logo/22digital.png'
 locale:             en_GB
 baseurl:            ""
 url:                https://22digital.agency
-# remote_theme:       inded/Jekyll_modern-blog
 
 # Jekyll
-permalink:          /:title/
+permalink:          /:title
 markdown:           kramdown
-highlighter:        rouge
-kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
+# highlighter:        rouge
+# kramdown:
+#   auto_ids:         true
+#   footnote_nr:      1
+#   entity_output:    as_char
+#   toc_levels:       1..6
+#   enable_coderay:   false
 
 # Plugins
 plugins:
@@ -33,23 +32,19 @@ jekyll-mentions:
 
 # Exclude list
 exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - gulpfile.js
-  - package.json
-  - _site
-  - src
-  - vendor
-  - CNAME
-  - LICENSE
-  - Rakefile
-  - .gitignore
   - .github
+  - .sass-cache
+  - _site
+  - .gitignore
+  - .travis.yml
   - 22digital.sublime-project
   - 22digital.code-workspace
   - 22digital.sublime-workspace
   - CHANGELOG.md
+  - CNAME
   - CODE_OF_CONDUCT.md
   - CONTRIBUTING.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
