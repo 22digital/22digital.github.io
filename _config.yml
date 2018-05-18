@@ -1,7 +1,16 @@
 ---
-# General Configuration
 title: 22 Digital
 timezone: Africa/Johannesburg
+collections:
+  pages:
+    title: Pages
+    output: true
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 description: 22 Digital is a different kind of agency.<br>We don't just work for money,
   nor with simply anyone.<br>Our mission is to change the world. If that's yours;
   let's talk.
@@ -10,7 +19,6 @@ locale: en_GB
 baseurl: ''
 url: https://22digital.co.za
 permalink: "/:title"
-# System
 markdown: kramdown
 exclude:
 - ".github"
@@ -30,18 +38,6 @@ exclude:
 - LICENSE
 - README.md
 - _templates
-# Collections
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-  pages:
-    title: Pages
-    output: true
-# Plugins
 plugins:
 - jemoji
 - jekyll-mentions
@@ -52,15 +48,11 @@ plugins:
 - jekyll-redirect-from
 jekyll-mentions:
   base_url: https://github.com
-# Octopress Configuration
-post_ext: md # File extension. Can be .html as well.
+post_ext: md
 page_ext: md
-## Default templates for posts and pages
-post_layout: null
-page_layout: null
-## Format titles with titlecase?
+post_layout: 
+page_layout: 
 titlecase: true
-## Change default template file (in _templates/)
 post_template: post
 page_template: page
 draft_template: draft
