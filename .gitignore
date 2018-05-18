@@ -27,6 +27,7 @@ _site/
 .jekyll-metadata
 *.sublime-workspace
 .vscode
+.htaccess
 
 ###################
 ### Start macOS ###

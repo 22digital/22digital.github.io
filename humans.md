@@ -11,6 +11,7 @@ sitemap:
     Email: justin [@] 22digital.agency
     Web: http://justin.hartman.me
     Twitter: @justinhartman
+    Facebook: https://fb.me/justin.hartman.me
     From: Cape Town, South Africa
 
 /* THANKS */
@@ -23,4 +24,5 @@ sitemap:
     Revision: {{ site.github.build_revision }}
     Language: English
     Doctype: HTML5
-    IDE: Visual Studio Code, Sublime Text 3, Pixelmator 3.7, Github Pages, Jekyll, Github, iTerm2
+    IDE: Visual Studio Code, Sublime Text 3, Pixelmator 3.7, Github Pages,
+    Jekyll, Github, iTerm2, Firefox Developer Edition, SourceTree.
