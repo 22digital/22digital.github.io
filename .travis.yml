@@ -1,4 +1,7 @@
 language: ruby
 rvm:
-- 2.5.1
+- 2.5.1p57
 script: "jekyll build"
+addons:
+  apt:
+    update: true
