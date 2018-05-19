@@ -38,6 +38,7 @@ exclude:
 - LICENSE
 - README.md
 - _templates
+- vendor
 plugins:
 - jemoji
 - jekyll-mentions
