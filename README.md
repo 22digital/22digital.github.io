@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/22digital/22digital.github.io.svg?branch=master)](https://travis-ci.org/22digital/22digital.github.io)
+
 # 22 Digital Agency Website
 
 The source code for the [22 Digital website][22digital].

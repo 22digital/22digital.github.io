@@ -1,7 +1,7 @@
 ---
 title: WhyAddicted 2.0
 date: 2018-04-11 16:55:07 Z
-permalink: "/whyaddicted-redesign"
+permalink: "/projects/whyaddicted-redesign"
 subtitle: A redesigned user-experience.
 author: Justin Hartman
 avatar: "/img/authors/me.jpeg"
