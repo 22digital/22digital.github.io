@@ -1,6 +1,6 @@
 ---
 title: WhyAddicted
-date: 2017-09-17 18:50:32 Z
+date: 2017-09-17 20:50:32 +02:00
 permalink: "/projects/whyaddicted"
 subtitle: Using Neuropsychology to beat Addiction.
 author: Justin Hartman

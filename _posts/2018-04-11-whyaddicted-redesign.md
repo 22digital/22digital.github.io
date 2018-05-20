@@ -1,6 +1,6 @@
 ---
 title: WhyAddicted 2.0
-date: 2018-04-11 16:55:07 Z
+date: 2018-04-11 18:55:07 +02:00
 permalink: "/projects/whyaddicted-redesign"
 subtitle: A redesigned user-experience.
 author: Justin Hartman
