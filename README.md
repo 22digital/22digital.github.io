@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/22digital/22digital.github.io.png?columns=all)](https://waffle.io/22digital/22digital.github.io?utm_source=badge)
 [![Build Status](https://travis-ci.org/22digital/22digital.github.io.svg?branch=master)](https://travis-ci.org/22digital/22digital.github.io)
 
 # 22 Digital Agency Website
