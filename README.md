@@ -1,66 +1,61 @@
-[![Waffle.io - Columns and their card count](https://badge.waffle.io/22digital/22digital.github.io.png?columns=all)](https://waffle.io/22digital/22digital.github.io?utm_source=badge)
-[![Build Status](https://travis-ci.org/22digital/22digital.github.io.svg?branch=master)](https://travis-ci.org/22digital/22digital.github.io)
-
 # 22 Digital Agency Website
 
-The source code for the [22 Digital website][22digital].
+[![Build Status](https://travis-ci.org/22digital/22digital.github.io.svg?branch=master)](https://travis-ci.org/22digital/22digital.github.io) [![Waffle.io - Columns and their card count](https://badge.waffle.io/22digital/22digital.github.io.png?columns=all)](https://waffle.io/22digital/22digital.github.io?utm_source=badge)
 
-## Table of Contents
+The source code for the [22 Digital Agency Website][22digital].
 
-<!-- MarkdownTOC -->
+### Table of Contents
 
-- [Built With](#built-with)
-- [Contributing](#contributing)
-- [Code of Conduct](#code-of-conduct)
-- [Versioning](#versioning)
-- [Change-Log](#change-log)
-- [Authors](#authors)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+- [1. Built With](#1-built-with)
+- [2. Contributing](#2-contributing)
+- [3. Code of Conduct](#3-code-of-conduct)
+- [4. Versioning](#4-versioning)
+- [5. Change-Log](#5-change-log)
+- [6. Authors](#6-authors)
+- [7. License](#7-license)
+- [8. Acknowledgements](#8-acknowledgements)
 
-<!-- /MarkdownTOC -->
-
-## Built With
+## 1. Built With
 
 - [Github Pages][pages]
 - [Jekyll 3.7.3][jekyll]
 - [Jekyll_modern-blog][theme]
 
-## Contributing
+## 2. Contributing
 
 Please read the [CONTRIBUTING.md][CONTRIBUTING] file for details on how you 
 can get involved in the project as well as the process for submitting bugs 
 and pull requests.
 
-## Code of Conduct
+## 3. Code of Conduct
 
 Please read the [CODE_OF_CONDUCT.md][COC] file for the guidelines that govern 
 the community.
 
-## Versioning
+## 4. Versioning
 
 We use [Semantic Versioning][semver] for software versions of this project. 
 For a list of all the versions available, see the [tags][tags] and 
 [releases][releases] on this repository. 
 
-## Change-Log
+## 5. Change-Log
 
-View the [`CHANGELOG.md`][changelog] file for a detailed list of changes, 
+View the [CHANGELOG.md][changelog] file for a detailed list of changes, 
 along with specific tasks completed for each version released to date.
 
-## Authors
+## 6. Authors
 
 - Justin Hartman - [@justinhartman][author-1]
 
 Also see the list of [contributors][contribs] who have participated in this 
 project.
 
-## License
+## 7. License
 
 This project is licensed under the `AGPL-3.0` License. See the 
 [LICENSE][license] file for full details.
 
-## Acknowledgements
+## 8. Acknowledgements
 
 Special thanks go out to the following people and projects who have helped in 
 some way to make this project a reality.
