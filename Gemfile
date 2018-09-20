@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
-gem 'github-pages'
+ruby RUBY_VERSION
+gem "jekyll", "3.7.3"
 gem 'octopress', '~> 3.0'
+
 group :jekyll_plugins do
   gem 'jekyll-feed'
   gem 'jekyll-mentions'
