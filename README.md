@@ -18,7 +18,7 @@ The source code for the [22 Digital Agency Website][22digital].
 ## 1. Built With
 
 - [Github Pages][pages]
-- [Jekyll 3.7.3][jekyll]
+- [Jekyll 3.7.4][jekyll]
 - [Jekyll_modern-blog][theme]
 
 ## 2. Contributing
