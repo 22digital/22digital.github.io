@@ -52,8 +52,9 @@ project.
 
 ## 7. License
 
-This project is licensed under the `AGPL-3.0` License. See the
-[LICENSE][license] file for full details.
+> Copyright (c) 2020 22 Digital. All Rights Reserved.
+
+See the [LICENSE][license] for full details.
 
 ## 8. Acknowledgements
 

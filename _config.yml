@@ -26,9 +26,6 @@ exclude:
 - _site
 - ".gitignore"
 - ".travis.yml"
-- 22digital.sublime-project
-- 22digital.code-workspace
-- 22digital.sublime-workspace
 - CHANGELOG.md
 - CNAME
 - CODE_OF_CONDUCT.md
