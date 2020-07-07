@@ -8,7 +8,7 @@ sitemap:
 
 /* TEAM */
     Chef: Justin Hartman
-    Email: justin [@] 22digital.agency
+    Email: justin [@] 22digital.co.za
     Web: http://justin.hartman.me
     Twitter: @justinhartman
     Facebook: https://fb.me/justin.hartman.me

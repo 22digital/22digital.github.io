@@ -17,7 +17,7 @@ description: 22 Digital is a different kind of agency.<br>We don't just work for
 logo: "/img/logo/22digital.png"
 locale: en_GB
 baseurl: ''
-url: https://22digital.agency
+url: https://22digital.co.za
 permalink: "/:title"
 markdown: kramdown
 exclude:
