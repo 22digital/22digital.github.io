@@ -3,9 +3,9 @@ rvm:
   - 2.6.3
 
 before_script:
- - chmod +x ./scripts/cibuild
+ - chmod +x ./script/cibuild
 
-script: ./scripts/cibuild
+script: ./script/cibuild
 
 env:
   global:
