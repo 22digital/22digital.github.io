@@ -5,29 +5,70 @@ permalink: "/projects/whyaddicted-redesign"
 subtitle: A redesigned user-experience.
 author: Justin Hartman
 avatar: "/img/authors/me.jpeg"
-image: "/img/whyaddicted-redesign.jpg"
+image: "/img/projects/whyaddicted/whyaddicted-redesign.jpg"
 ---
 
 # WhyAddicted Version 2 Released
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci.
+<img src="/img/projects/whyaddicted/whyaddicted-redesign.jpg" style="width:100%;height:auto;" alt="WhyAddicted Version 2 Released">
 
-Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+In _September 2017_, 22 Digital [launched the first version][v1] of the WhyAddicted website and this time we were commissioned to redesign the website with a fresh, new look.
 
-## Features
+## About WhyAddicted
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor.
+Founded in 2017, [WhyAddicted.com][whyaddicted] is a revolutionary Social Enterprise that targets the root causes of mental health and addiction issues and offers addiction treatment recovery services. 
 
-- Item 1
-- Item 2
-- Item 3
+WhyAddicted provide comprehensive support and practical solutions for those suffering from all forms of addiction and compulsive obsessive behaviours, from drug addiction to eating disorders, depression and mental health issues. They also provide support and instruction for families, loved ones and colleagues.
 
-## Results
+## WhyAddicted Redesign Offering
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+As part of the **digital strategy**, [22 Digital][22digital] provided the following services throughout the **website redesign** process.
 
-Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+### Usability and User Experience (UX) Design
 
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
+- **Mobile analysis** and recommendations.
+- **A/B landing page** and design testing.
+- **Conversion analysis** and recommendations.
 
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
+### Website Design
+
+- Design migration from a **Single Page Website** to a page and category structure.
+- **User Interface** (UI) design changes.
+- New **website redesign** based on UX and UI recommendations and strategy.
+
+### Website Development
+
+- **Theme development** for improvements to the original **website design**.
+- Code restructuring and optimisation to ensure compliance with **SEO strategy**.
+- New **blog functionality** for daily content posting.
+
+### Search Engine Optimisation (SEO)
+
+- **SEO Audit** to analyse current **search engine rankings** and key issues with current site.
+- **Content writing** and **content generation**.
+- Daily **blog post** and **Facebook post creation**.
+
+### Digital Marketing and Social Media
+
+- Daily Facebook **social media management**.
+- Daily **blog post creation** and posting to website.
+- **LinkedIn campaign management** to drive leads to website.
+- New **Organic Search strategy** implemented.
+- Content generation for **Organic Search (SEO)** results.
+
+## Ongoing Services
+
+As part of our ongoing service offering we provide the following to WhyAddicted.
+
+- **Digital marketing** strategy.
+- Digital **strategy consulting**.
+- Daily **blog post creation** and posting to website.
+- Daily Facebook **campaign management**.
+- Content curation and creation.
+- Monthly retainer for technical support and website coding changes.
+- Monthly design services for improving on **Usability**, **User Interface (UI)**, and **User Experience (UX)** design.
+
+
+[v1]: /#/projects/whyaddicted
+[whyaddicted]: https://www.whyaddicted.com
+[22digital]: https://22digital.co.za

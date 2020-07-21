@@ -5,29 +5,45 @@ permalink: "/projects/whyaddicted"
 subtitle: Using Neuropsychology to beat Addiction.
 author: Justin Hartman
 avatar: "/img/authors/me.jpeg"
-image: "/img/whyaddicted.jpg"
+image: "/img/projects/whyaddicted/whyaddicted.jpg"
 ---
 
-# WhyAddicted Version 2 Released
+# WhyAddicted
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci.
+<img src="/img/projects/whyaddicted/whyaddicted.jpg" style="width:100%;height:auto;" alt="WhyAddicted">
 
-Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+Founded in 2017, [WhyAddicted.com][whyaddicted] is a revolutionary Social Enterprise that targets the root causes of mental health and addiction issues and offers addiction treatment recovery services. 
 
-## Features
+WhyAddicted provide comprehensive support and practical solutions for those suffering from all forms of addiction and compulsive obsessive behaviours, from drug addiction to eating disorders, depression and mental health issues. They also provide support and instruction for families, loved ones and colleagues.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor.
+## WhyAddicted Service Breakdown
 
-- Item 1
-- Item 2
-- Item 3
+WhyAddicted commissioned [22 Digital][22digital] to launch their digital presence. Together with them, we put together a digital strategy and launch plan and provided a set of core services.
 
-## Results
+### Digital Strategy
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+- Competitor and SWOT analysis.
+- **Digital strategy** and conceptualisation.
 
-Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+### Website Design and Website Development
 
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
+- **Design brief** and **technical specification** documentation.
+- **Website user interface design** and development.
+- **Website theme development** and implementation.
 
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
+### Search Engine Optimisation (SEO)
+
+- **Content analysis** and recommendations.
+- Analysis and improved **tagging** of text, content, headings and **tags on the website**.
+- **Content writing** and **content generation** for pages.
+
+## Ongoing Services
+
+Once the website was launched we entered into an ongoing relationship where we provide the following services to WhyAddicted.
+
+- Digital **strategy consulting**.
+- Monthly retainer for technical support and website coding changes.
+- Monthly design services for improving on **Usability**, **User Interface (UI)**, and **User Experience (UX)** design.
+
+[whyaddicted]: https://www.whyaddicted.com
+[22digital]: https://22digital.co.za
