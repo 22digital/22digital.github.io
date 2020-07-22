@@ -1,13 +1,13 @@
 ---
 permalink: "/sitemap.xsl"
-layout: 
+layout:
 sitemap:
   changefreq: yearly
   priority: 0.1
 ---
 
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet version="2.0" 
+<xsl:stylesheet version="2.0"
                 xmlns:html="http://www.w3.org/TR/REC-html40"
                 xmlns:sitemap="http://www.sitemaps.org/schemas/sitemap/0.9"
                 xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
@@ -86,7 +86,7 @@ sitemap:
 					</table>
 				</div>
 				<div id="footer">
-					Copyright 2004-2018 <a href="https://justin.hartman.me/">Justin Hartman</a>. All Rights Reserved. This XSLT template is released under GPL.
+					Copyright 2004-2020 <a href="https://hartman.me">Justin Hartman</a>. All Rights Reserved. This XSLT template is released under GPL.
 				</div>
 			</body>
 		</html>

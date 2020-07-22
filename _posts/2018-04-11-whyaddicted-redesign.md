@@ -1,11 +1,16 @@
 ---
 title: WhyAddicted 2.0
+subtitle: A redesigned user-experience.
+description: 22 Digital was commissioned to redesign the WhyAddicted website and provide digital services for UI and UX design, Website Development, SEO, Digital Marketing, and Social Media Management. 
 date: 2018-04-11 18:55:07 +02:00
 permalink: "/projects/whyaddicted-redesign"
-subtitle: A redesigned user-experience.
 author: Justin Hartman
 avatar: "/img/authors/me.jpeg"
 image: "/img/projects/whyaddicted/whyaddicted-redesign.jpg"
+sitemap: 
+  changefreq: yearly
+  priority: 0.9
+last_modified_at: 2020-07-22 02:54:22 +02:00
 ---
 
 # WhyAddicted Version 2 Released

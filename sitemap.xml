@@ -1,6 +1,5 @@
 ---
 permalink: "/sitemap.xml"
-layout: 
 sitemap:
   changefreq: weekly
   priority: 1.0
@@ -25,7 +24,7 @@ sitemap:
     <url>
         <loc>{{ '/sitemap.xml' | absolute_url }}</loc>
         <xhtml:link rel="alternate" hreflang="en" href="{{ '/sitemap.xml' | absolute_url }}" />
-        <lastmod>2018-05-15T23:47:05+02:00</lastmod>
+        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>

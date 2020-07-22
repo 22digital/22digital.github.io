@@ -1,11 +1,16 @@
 ---
 title: WhyAddicted
+subtitle: Using Neuropsychology to beat addiction.
+description: WhyAddicted commissioned 22 Digital to launch their digital presence. Together with them, we put together a digital strategy and launch plan and provided a set of core services.
 date: 2017-09-17 20:50:32 +02:00
 permalink: "/projects/whyaddicted"
-subtitle: Using Neuropsychology to beat Addiction.
 author: Justin Hartman
 avatar: "/img/authors/me.jpeg"
 image: "/img/projects/whyaddicted/whyaddicted.jpg"
+sitemap: 
+  changefreq: yearly
+  priority: 0.9
+last_modified_at: 2020-07-22 02:54:22 +02:00
 ---
 
 # WhyAddicted
