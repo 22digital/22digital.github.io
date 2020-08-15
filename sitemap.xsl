@@ -86,7 +86,7 @@ sitemap:
 					</table>
 				</div>
 				<div id="footer">
-					Copyright 2004-2020 <a href="https://hartman.me">Justin Hartman</a>. All Rights Reserved. This XSLT template is released under GPL.
+					Copyright 2004-2020 <a href="https://justinhartman.co">Justin Hartman</a>. All Rights Reserved. This XSLT template is released under GPL.
 				</div>
 			</body>
 		</html>
