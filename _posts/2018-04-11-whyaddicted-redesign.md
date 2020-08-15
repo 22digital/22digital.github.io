@@ -74,6 +74,6 @@ As part of our ongoing service offering we provide the following to WhyAddicted.
 - Monthly design services for improving on **Usability**, **User Interface (UI)**, and **User Experience (UX)** design.
 
 
-[v1]: /#/projects/whyaddicted
+[v1]: https://22digital.co.za/#/projects/whyaddicted
 [whyaddicted]: https://www.whyaddicted.com
 [22digital]: https://22digital.co.za
